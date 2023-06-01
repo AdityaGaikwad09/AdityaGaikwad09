@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Introduction
 
-Hello! I'm Aditya V. Gaikwad, a passionate Web Developer based in satara, maharashtra, india. Welcome to my GitHub profile. Here, you'll find a collection of projects and contributions that showcase my skills, experience, and interests.
+I'm Aditya V. Gaikwad, a passionate Web Developer based in satara, maharashtra, india. Welcome to my GitHub profile. Here, you'll find a collection of projects and contributions that showcase my skills, experience, and interests.
 
 # About Me
 
