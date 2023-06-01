@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hello! I'm Aditya V. Gaikwad, a passionate Web Developer based in satara, maharashtra, india. Welcome to my GitHub profile. Here, you'll find a collection of projects and contributions that showcase my skills, experience, and interests.
 
-## About Me
+# About Me
 
 I have 6 months of experience  Throughout my career, I have worked on some projects. My expertise lies in Html, css, php, javascript, nodejs, reactjs,expressjs, mongodb, mysql, also CMS platforms such as wordpress, shopify etc. I am always eager to learn and explore new technologies to enhance my knowledge and stay up-to-date with the latest industry trends.
 
