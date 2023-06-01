@@ -23,12 +23,12 @@ Hello! I'm Aditya V. Gaikwad, a passionate Web Developer based in satara, mahara
 
 I have 6 months of experience  Throughout my career, I have worked on some projects. My expertise lies in Html, css, php, javascript, nodejs, reactjs,expressjs, mongodb, mysql, also CMS platforms such as wordpress, shopify etc. I am always eager to learn and explore new technologies to enhance my knowledge and stay up-to-date with the latest industry trends.
 
-## Projects
+# Projects
 
 Here are a few noteworthy projects that I have worked on:
 
-# Project 1 : 
-# SMALL‑SCALE COMPANY WEBSITE DEVELOPMENT
+## Project 1 : 
+## SMALL‑SCALE COMPANY WEBSITE DEVELOPMENT
 
 ➔ Objective: To develop a responsive and user-friendly website for a small-scale
 company that showcases its products and services, and allows customers to easily
