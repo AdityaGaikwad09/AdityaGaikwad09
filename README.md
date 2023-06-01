@@ -24,7 +24,7 @@ I have 6 months of experience  Throughout my career, I have worked on some proje
 
 # Projects
 
-Here are a few noteworthy projects that I have worked on:
+## Here are a few noteworthy projects that I have worked on:
 
 ## Project 1 : 
 ## SMALL‑SCALE COMPANY WEBSITE DEVELOPMENT
