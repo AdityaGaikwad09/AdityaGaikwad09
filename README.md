@@ -64,7 +64,7 @@ Deployment and launch - 1 week
 I hold a Bachelors in computer Applicaiton from Shivaji University, Kolhapur. During  my academic journey, I gained a solid foundation in Web Development. This knowledge, combined with my practical experience, enables me to tackle complex problems and deliver efficient solutions.
 
 ## Contact Me
-
+[website][(https://www.linkedin.com/in/aditya-gaikwad-ag) ](http://adityagaikwad.in/)
 If you would like to get in touch with me regarding collaboration, job opportunities, or just to say hello, feel free to reach out to me via email at adityatraid09@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-gaikwad-ag) for professional networking.
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you and exploring exciting opportunities together.
